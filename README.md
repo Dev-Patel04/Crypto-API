@@ -19,6 +19,7 @@ A simple, web-based application that fetches and displays the current prices and
 2. **Open the Application**
 
    - Navigate to the directory where you cloned or extracted the project.
+   - Group all images (png files) into a folder called Images.
    - Open the `index.html` file in your web browser. You can usually do this by double-clicking the file.
 
 ### Usage
